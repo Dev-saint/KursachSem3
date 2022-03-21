@@ -69,6 +69,8 @@ namespace WinFormsKP
                 Question1[ID].SetDoctor(DoctorSelect);
                 Question1[ID].SetPatient(Patient1);
                 Form2 form2 = new Form2(Question1, ID);
+                form2.Owner = this;
+                Visible = false;
                 form2.Show(); 
             }
         }

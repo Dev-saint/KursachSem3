@@ -112,7 +112,7 @@ namespace WinFormsKP
             // 
             this.ButtonStart.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.ButtonStart.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.ButtonStart.Location = new System.Drawing.Point(81, 508);
+            this.ButtonStart.Location = new System.Drawing.Point(81, 325);
             this.ButtonStart.Name = "ButtonStart";
             this.ButtonStart.Size = new System.Drawing.Size(238, 72);
             this.ButtonStart.TabIndex = 7;
@@ -135,7 +135,7 @@ namespace WinFormsKP
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(903, 607);
+            this.ClientSize = new System.Drawing.Size(407, 430);
             this.Controls.Add(this.ComboBoxSelectDoctor);
             this.Controls.Add(this.ButtonStart);
             this.Controls.Add(this.LabelPatient);

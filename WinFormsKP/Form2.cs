@@ -242,5 +242,10 @@ namespace WinFormsKP
                 this.Visible = false;
             }
         }
+
+        private void Form2_FormClosed(object sender, FormClosedEventArgs e)
+        {
+
+        }
     }
 }
