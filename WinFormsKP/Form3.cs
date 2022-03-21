@@ -27,7 +27,7 @@ namespace WinFormsKP
 
         private void ButtonAdmin_Click(object sender, EventArgs e)
         {
-            if (TextBoxPassword.Text == "biba")
+            if (TextBoxPassword.Text == "admin")
             {
                 Form4 form4 = new Form4();
                 form4.Owner = this;

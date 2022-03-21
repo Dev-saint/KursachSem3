@@ -199,7 +199,8 @@ namespace WinFormsKP
             // 
             // folderBrowserDialog1
             // 
-            this.folderBrowserDialog1.SelectedPath = "C:\\Users\\Administrator\\source\\repos\\Kurs_CherkasovSV_sem3_v_1.1\\WinFormsKP";
+            this.folderBrowserDialog1.SelectedPath = "C:\\Users\\Administrator\\source\\repos\\Kurs_CherkasovSV_sem3_v_1.1\\WinFormsKP\\bin\\De" +
+    "bug";
             // 
             // Form5
             // 

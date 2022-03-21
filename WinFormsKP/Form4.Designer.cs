@@ -56,6 +56,7 @@ namespace WinFormsKP
             this.button2.TabIndex = 1;
             this.button2.Text = "Редактировать опрос";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
             // 
@@ -66,6 +67,7 @@ namespace WinFormsKP
             this.button3.TabIndex = 2;
             this.button3.Text = "Удалить опрос";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // ComboBoxSelectQuizEdit
             // 
@@ -76,6 +78,7 @@ namespace WinFormsKP
             this.ComboBoxSelectQuizEdit.Size = new System.Drawing.Size(500, 32);
             this.ComboBoxSelectQuizEdit.TabIndex = 3;
             this.ComboBoxSelectQuizEdit.Text = "Выберите опрос...";
+            this.ComboBoxSelectQuizEdit.SelectedIndexChanged += new System.EventHandler(this.ComboBoxSelectQuizEdit_SelectedIndexChanged);
             // 
             // ComboBoxSelectQuizDelete
             // 
@@ -86,6 +89,7 @@ namespace WinFormsKP
             this.ComboBoxSelectQuizDelete.Size = new System.Drawing.Size(500, 32);
             this.ComboBoxSelectQuizDelete.TabIndex = 4;
             this.ComboBoxSelectQuizDelete.Text = "Выберите опрос...";
+            this.ComboBoxSelectQuizDelete.SelectedIndexChanged += new System.EventHandler(this.ComboBoxSelectQuizDelete_SelectedIndexChanged);
             // 
             // Form4
             // 
@@ -98,7 +102,7 @@ namespace WinFormsKP
             this.Controls.Add(this.button2);
             this.Controls.Add(this.ButtonCreate);
             this.Name = "Form4";
-            this.Text = "Редактор запросов";
+            this.Text = "Редактор опросов";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form4_FormClosed);
             this.Load += new System.EventHandler(this.Form4_Load);
             this.ResumeLayout(false);

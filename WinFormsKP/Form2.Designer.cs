@@ -88,10 +88,10 @@ namespace WinFormsKP
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label1.Location = new System.Drawing.Point(36, 29);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(47, 15);
+            this.label1.Size = new System.Drawing.Size(57, 20);
             this.label1.TabIndex = 0;
             this.label1.Text = "label1";
             this.label1.Visible = false;
@@ -99,10 +99,10 @@ namespace WinFormsKP
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label2.Location = new System.Drawing.Point(36, 78);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(47, 15);
+            this.label2.Size = new System.Drawing.Size(57, 20);
             this.label2.TabIndex = 1;
             this.label2.Text = "label2";
             this.label2.Visible = false;
@@ -110,10 +110,10 @@ namespace WinFormsKP
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label3.Location = new System.Drawing.Point(36, 128);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(47, 15);
+            this.label3.Size = new System.Drawing.Size(57, 20);
             this.label3.TabIndex = 2;
             this.label3.Text = "label3";
             this.label3.Visible = false;
@@ -121,10 +121,10 @@ namespace WinFormsKP
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label4.Location = new System.Drawing.Point(36, 178);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(47, 15);
+            this.label4.Size = new System.Drawing.Size(57, 20);
             this.label4.TabIndex = 3;
             this.label4.Text = "label4";
             this.label4.Visible = false;
@@ -132,10 +132,10 @@ namespace WinFormsKP
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label5.Location = new System.Drawing.Point(36, 229);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(47, 15);
+            this.label5.Size = new System.Drawing.Size(57, 20);
             this.label5.TabIndex = 4;
             this.label5.Text = "label5";
             this.label5.Visible = false;
@@ -143,10 +143,10 @@ namespace WinFormsKP
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label6.Location = new System.Drawing.Point(36, 279);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(47, 15);
+            this.label6.Size = new System.Drawing.Size(57, 20);
             this.label6.TabIndex = 5;
             this.label6.Text = "label6";
             this.label6.Visible = false;
@@ -154,10 +154,10 @@ namespace WinFormsKP
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label7.Location = new System.Drawing.Point(36, 330);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(47, 15);
+            this.label7.Size = new System.Drawing.Size(57, 20);
             this.label7.TabIndex = 6;
             this.label7.Text = "label7";
             this.label7.Visible = false;
@@ -165,10 +165,10 @@ namespace WinFormsKP
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label8.Location = new System.Drawing.Point(36, 381);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(47, 15);
+            this.label8.Size = new System.Drawing.Size(57, 20);
             this.label8.TabIndex = 7;
             this.label8.Text = "label8";
             this.label8.Visible = false;
@@ -176,10 +176,10 @@ namespace WinFormsKP
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label9.Location = new System.Drawing.Point(36, 432);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(47, 15);
+            this.label9.Size = new System.Drawing.Size(57, 20);
             this.label9.TabIndex = 8;
             this.label9.Text = "label9";
             this.label9.Visible = false;
@@ -187,10 +187,10 @@ namespace WinFormsKP
             // label10
             // 
             this.label10.AutoSize = true;
-            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label10.Location = new System.Drawing.Point(36, 484);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(55, 15);
+            this.label10.Size = new System.Drawing.Size(67, 20);
             this.label10.TabIndex = 9;
             this.label10.Text = "label10";
             this.label10.Visible = false;
@@ -199,6 +199,7 @@ namespace WinFormsKP
             // 
             this.groupBox1.Controls.Add(this.radioButton2);
             this.groupBox1.Controls.Add(this.radioButton1);
+            this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.groupBox1.Location = new System.Drawing.Point(681, 19);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(200, 33);
@@ -211,7 +212,7 @@ namespace WinFormsKP
             this.radioButton2.AutoSize = true;
             this.radioButton2.Location = new System.Drawing.Point(27, 10);
             this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(40, 17);
+            this.radioButton2.Size = new System.Drawing.Size(46, 22);
             this.radioButton2.TabIndex = 1;
             this.radioButton2.TabStop = true;
             this.radioButton2.Text = "Да";
@@ -222,7 +223,7 @@ namespace WinFormsKP
             this.radioButton1.AutoSize = true;
             this.radioButton1.Location = new System.Drawing.Point(115, 10);
             this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(44, 17);
+            this.radioButton1.Size = new System.Drawing.Size(52, 22);
             this.radioButton1.TabIndex = 0;
             this.radioButton1.TabStop = true;
             this.radioButton1.Text = "Нет";
@@ -232,6 +233,7 @@ namespace WinFormsKP
             // 
             this.groupBox2.Controls.Add(this.radioButton3);
             this.groupBox2.Controls.Add(this.radioButton4);
+            this.groupBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.groupBox2.Location = new System.Drawing.Point(681, 68);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(200, 33);
@@ -244,7 +246,7 @@ namespace WinFormsKP
             this.radioButton3.AutoSize = true;
             this.radioButton3.Location = new System.Drawing.Point(115, 10);
             this.radioButton3.Name = "radioButton3";
-            this.radioButton3.Size = new System.Drawing.Size(44, 17);
+            this.radioButton3.Size = new System.Drawing.Size(52, 22);
             this.radioButton3.TabIndex = 1;
             this.radioButton3.TabStop = true;
             this.radioButton3.Text = "Нет";
@@ -255,7 +257,7 @@ namespace WinFormsKP
             this.radioButton4.AutoSize = true;
             this.radioButton4.Location = new System.Drawing.Point(27, 10);
             this.radioButton4.Name = "radioButton4";
-            this.radioButton4.Size = new System.Drawing.Size(40, 17);
+            this.radioButton4.Size = new System.Drawing.Size(46, 22);
             this.radioButton4.TabIndex = 0;
             this.radioButton4.TabStop = true;
             this.radioButton4.Text = "Да";
@@ -265,6 +267,7 @@ namespace WinFormsKP
             // 
             this.groupBox3.Controls.Add(this.radioButton5);
             this.groupBox3.Controls.Add(this.radioButton6);
+            this.groupBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.groupBox3.Location = new System.Drawing.Point(681, 118);
             this.groupBox3.Name = "groupBox3";
             this.groupBox3.Size = new System.Drawing.Size(200, 33);
@@ -277,7 +280,7 @@ namespace WinFormsKP
             this.radioButton5.AutoSize = true;
             this.radioButton5.Location = new System.Drawing.Point(115, 10);
             this.radioButton5.Name = "radioButton5";
-            this.radioButton5.Size = new System.Drawing.Size(44, 17);
+            this.radioButton5.Size = new System.Drawing.Size(52, 22);
             this.radioButton5.TabIndex = 1;
             this.radioButton5.TabStop = true;
             this.radioButton5.Text = "Нет";
@@ -288,7 +291,7 @@ namespace WinFormsKP
             this.radioButton6.AutoSize = true;
             this.radioButton6.Location = new System.Drawing.Point(27, 10);
             this.radioButton6.Name = "radioButton6";
-            this.radioButton6.Size = new System.Drawing.Size(40, 17);
+            this.radioButton6.Size = new System.Drawing.Size(46, 22);
             this.radioButton6.TabIndex = 0;
             this.radioButton6.TabStop = true;
             this.radioButton6.Text = "Да";
@@ -298,6 +301,7 @@ namespace WinFormsKP
             // 
             this.groupBox4.Controls.Add(this.radioButton7);
             this.groupBox4.Controls.Add(this.radioButton8);
+            this.groupBox4.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.groupBox4.Location = new System.Drawing.Point(681, 168);
             this.groupBox4.Name = "groupBox4";
             this.groupBox4.Size = new System.Drawing.Size(200, 33);
@@ -310,7 +314,7 @@ namespace WinFormsKP
             this.radioButton7.AutoSize = true;
             this.radioButton7.Location = new System.Drawing.Point(115, 10);
             this.radioButton7.Name = "radioButton7";
-            this.radioButton7.Size = new System.Drawing.Size(44, 17);
+            this.radioButton7.Size = new System.Drawing.Size(52, 22);
             this.radioButton7.TabIndex = 1;
             this.radioButton7.TabStop = true;
             this.radioButton7.Text = "Нет";
@@ -321,7 +325,7 @@ namespace WinFormsKP
             this.radioButton8.AutoSize = true;
             this.radioButton8.Location = new System.Drawing.Point(27, 10);
             this.radioButton8.Name = "radioButton8";
-            this.radioButton8.Size = new System.Drawing.Size(40, 17);
+            this.radioButton8.Size = new System.Drawing.Size(46, 22);
             this.radioButton8.TabIndex = 0;
             this.radioButton8.TabStop = true;
             this.radioButton8.Text = "Да";
@@ -331,6 +335,7 @@ namespace WinFormsKP
             // 
             this.groupBox5.Controls.Add(this.radioButton9);
             this.groupBox5.Controls.Add(this.radioButton10);
+            this.groupBox5.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.groupBox5.Location = new System.Drawing.Point(681, 219);
             this.groupBox5.Name = "groupBox5";
             this.groupBox5.Size = new System.Drawing.Size(200, 33);
@@ -343,7 +348,7 @@ namespace WinFormsKP
             this.radioButton9.AutoSize = true;
             this.radioButton9.Location = new System.Drawing.Point(115, 10);
             this.radioButton9.Name = "radioButton9";
-            this.radioButton9.Size = new System.Drawing.Size(44, 17);
+            this.radioButton9.Size = new System.Drawing.Size(52, 22);
             this.radioButton9.TabIndex = 1;
             this.radioButton9.TabStop = true;
             this.radioButton9.Text = "Нет";
@@ -354,7 +359,7 @@ namespace WinFormsKP
             this.radioButton10.AutoSize = true;
             this.radioButton10.Location = new System.Drawing.Point(27, 10);
             this.radioButton10.Name = "radioButton10";
-            this.radioButton10.Size = new System.Drawing.Size(40, 17);
+            this.radioButton10.Size = new System.Drawing.Size(46, 22);
             this.radioButton10.TabIndex = 0;
             this.radioButton10.TabStop = true;
             this.radioButton10.Text = "Да";
@@ -364,6 +369,7 @@ namespace WinFormsKP
             // 
             this.groupBox6.Controls.Add(this.radioButton11);
             this.groupBox6.Controls.Add(this.radioButton12);
+            this.groupBox6.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.groupBox6.Location = new System.Drawing.Point(681, 269);
             this.groupBox6.Name = "groupBox6";
             this.groupBox6.Size = new System.Drawing.Size(200, 33);
@@ -376,7 +382,7 @@ namespace WinFormsKP
             this.radioButton11.AutoSize = true;
             this.radioButton11.Location = new System.Drawing.Point(115, 10);
             this.radioButton11.Name = "radioButton11";
-            this.radioButton11.Size = new System.Drawing.Size(44, 17);
+            this.radioButton11.Size = new System.Drawing.Size(52, 22);
             this.radioButton11.TabIndex = 1;
             this.radioButton11.TabStop = true;
             this.radioButton11.Text = "Нет";
@@ -387,7 +393,7 @@ namespace WinFormsKP
             this.radioButton12.AutoSize = true;
             this.radioButton12.Location = new System.Drawing.Point(27, 10);
             this.radioButton12.Name = "radioButton12";
-            this.radioButton12.Size = new System.Drawing.Size(40, 17);
+            this.radioButton12.Size = new System.Drawing.Size(46, 22);
             this.radioButton12.TabIndex = 0;
             this.radioButton12.TabStop = true;
             this.radioButton12.Text = "Да";
@@ -397,6 +403,7 @@ namespace WinFormsKP
             // 
             this.groupBox7.Controls.Add(this.radioButton13);
             this.groupBox7.Controls.Add(this.radioButton14);
+            this.groupBox7.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.groupBox7.Location = new System.Drawing.Point(681, 320);
             this.groupBox7.Name = "groupBox7";
             this.groupBox7.Size = new System.Drawing.Size(200, 33);
@@ -409,7 +416,7 @@ namespace WinFormsKP
             this.radioButton13.AutoSize = true;
             this.radioButton13.Location = new System.Drawing.Point(115, 10);
             this.radioButton13.Name = "radioButton13";
-            this.radioButton13.Size = new System.Drawing.Size(44, 17);
+            this.radioButton13.Size = new System.Drawing.Size(52, 22);
             this.radioButton13.TabIndex = 1;
             this.radioButton13.TabStop = true;
             this.radioButton13.Text = "Нет";
@@ -420,7 +427,7 @@ namespace WinFormsKP
             this.radioButton14.AutoSize = true;
             this.radioButton14.Location = new System.Drawing.Point(27, 10);
             this.radioButton14.Name = "radioButton14";
-            this.radioButton14.Size = new System.Drawing.Size(40, 17);
+            this.radioButton14.Size = new System.Drawing.Size(46, 22);
             this.radioButton14.TabIndex = 0;
             this.radioButton14.TabStop = true;
             this.radioButton14.Text = "Да";
@@ -430,6 +437,7 @@ namespace WinFormsKP
             // 
             this.groupBox8.Controls.Add(this.radioButton15);
             this.groupBox8.Controls.Add(this.radioButton16);
+            this.groupBox8.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.groupBox8.Location = new System.Drawing.Point(681, 371);
             this.groupBox8.Name = "groupBox8";
             this.groupBox8.Size = new System.Drawing.Size(200, 33);
@@ -442,7 +450,7 @@ namespace WinFormsKP
             this.radioButton15.AutoSize = true;
             this.radioButton15.Location = new System.Drawing.Point(115, 10);
             this.radioButton15.Name = "radioButton15";
-            this.radioButton15.Size = new System.Drawing.Size(44, 17);
+            this.radioButton15.Size = new System.Drawing.Size(52, 22);
             this.radioButton15.TabIndex = 1;
             this.radioButton15.TabStop = true;
             this.radioButton15.Text = "Нет";
@@ -453,7 +461,7 @@ namespace WinFormsKP
             this.radioButton16.AutoSize = true;
             this.radioButton16.Location = new System.Drawing.Point(27, 10);
             this.radioButton16.Name = "radioButton16";
-            this.radioButton16.Size = new System.Drawing.Size(40, 17);
+            this.radioButton16.Size = new System.Drawing.Size(46, 22);
             this.radioButton16.TabIndex = 0;
             this.radioButton16.TabStop = true;
             this.radioButton16.Text = "Да";
@@ -463,6 +471,7 @@ namespace WinFormsKP
             // 
             this.groupBox9.Controls.Add(this.radioButton17);
             this.groupBox9.Controls.Add(this.radioButton18);
+            this.groupBox9.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.groupBox9.Location = new System.Drawing.Point(681, 422);
             this.groupBox9.Name = "groupBox9";
             this.groupBox9.Size = new System.Drawing.Size(200, 33);
@@ -475,7 +484,7 @@ namespace WinFormsKP
             this.radioButton17.AutoSize = true;
             this.radioButton17.Location = new System.Drawing.Point(115, 10);
             this.radioButton17.Name = "radioButton17";
-            this.radioButton17.Size = new System.Drawing.Size(44, 17);
+            this.radioButton17.Size = new System.Drawing.Size(52, 22);
             this.radioButton17.TabIndex = 1;
             this.radioButton17.TabStop = true;
             this.radioButton17.Text = "Нет";
@@ -486,7 +495,7 @@ namespace WinFormsKP
             this.radioButton18.AutoSize = true;
             this.radioButton18.Location = new System.Drawing.Point(27, 10);
             this.radioButton18.Name = "radioButton18";
-            this.radioButton18.Size = new System.Drawing.Size(40, 17);
+            this.radioButton18.Size = new System.Drawing.Size(46, 22);
             this.radioButton18.TabIndex = 0;
             this.radioButton18.TabStop = true;
             this.radioButton18.Text = "Да";
@@ -496,6 +505,7 @@ namespace WinFormsKP
             // 
             this.groupBox10.Controls.Add(this.radioButton19);
             this.groupBox10.Controls.Add(this.radioButton20);
+            this.groupBox10.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.groupBox10.Location = new System.Drawing.Point(681, 474);
             this.groupBox10.Name = "groupBox10";
             this.groupBox10.Size = new System.Drawing.Size(200, 33);
@@ -508,7 +518,7 @@ namespace WinFormsKP
             this.radioButton19.AutoSize = true;
             this.radioButton19.Location = new System.Drawing.Point(115, 10);
             this.radioButton19.Name = "radioButton19";
-            this.radioButton19.Size = new System.Drawing.Size(44, 17);
+            this.radioButton19.Size = new System.Drawing.Size(52, 22);
             this.radioButton19.TabIndex = 1;
             this.radioButton19.TabStop = true;
             this.radioButton19.Text = "Нет";
@@ -519,7 +529,7 @@ namespace WinFormsKP
             this.radioButton20.AutoSize = true;
             this.radioButton20.Location = new System.Drawing.Point(27, 10);
             this.radioButton20.Name = "radioButton20";
-            this.radioButton20.Size = new System.Drawing.Size(40, 17);
+            this.radioButton20.Size = new System.Drawing.Size(46, 22);
             this.radioButton20.TabIndex = 0;
             this.radioButton20.TabStop = true;
             this.radioButton20.Text = "Да";
